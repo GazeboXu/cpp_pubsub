@@ -1,0 +1,17 @@
+
+#忽略当前文件夹
+build/
+install/
+log/
+Desktop.ini
+.vscode
+
+ext/
+~*
+*.csv
+
+core.*
+unit_recorder/
+Recorder/
+*.dmp
+
